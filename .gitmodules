@@ -1,0 +1,3 @@
+[submodule "libs/shielded_rust"]
+	path = libs/shielded_rust
+	url = git@github.com:retrokiller543/rustic_cryptography.git
